@@ -1,0 +1,52 @@
+
+
+h1{
+    color: aquamarine;
+}
+
+.parrafo:hover {
+    color: #0097cd;
+}
+
+
+h1{
+    color: crimson;
+}
+
+#primer-parrafo{
+    color: darkblue;
+}
+
+.parrafo{
+    color: deeppink;
+}
+
+p{
+    color: black;
+}
+
+*{
+    color: chartreuse;
+}
+
+.div-hijo{
+    background-color: aqua;
+    padding: 10px;
+    border: 5px;
+    border-style: solid;
+}
+element {
+	background-color: aqua;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-top-width: 5px;
+	border-top-style: solid;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-right-width: 5px;
+	border-right-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+}
